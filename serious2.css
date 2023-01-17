@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+:root{
+    --font-serious:'Abel', sans-serif;
+    --color-border: rgb(248, 247, 247);
+    
+}
+.font-serious2{
+    font: normal 500 20px var(--font-serious);
+}
